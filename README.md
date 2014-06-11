@@ -1,4 +1,2 @@
-man
+`man aerofoil`
 ===
-
-a manual for Aerofoil
